@@ -2,9 +2,9 @@
 - 👀 I’m interested in cloud architecture and data science
 - 🌱 I’m currently learning how to perform a security audit
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tymackall10@gmail.com  
+- 📫 How to reach me ... www.linkedin.com/in/ty-mackall  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 
 <!---
 tymackallDS/tymackallDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
