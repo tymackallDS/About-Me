@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tymackallDS
-- 👀 I’m interested in cloud architecture and data science
+- 👀 I’m interested in cloud architecture and networking
 - 🌱 I’m currently learning how to Build secure cloud architectures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/ty-mackall  
